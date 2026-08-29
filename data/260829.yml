@@ -1,0 +1,57 @@
+about:
+  description: 💡 CLI tool to input and store your ideas without leaving the terminal
+  license: MIT
+  homepage: 
+  head: cc30d0b
+  archived: false
+  latestVersion: v2.0.0
+  collectedAt: 2026-08-29T07:26:28Z
+timeline:
+  created: 2017-11-20
+  lastCommit: 2026-08-28
+  lastRelease: 2022-04-10
+popularity:
+  star: 873
+  watcher: 9
+  fork: 42
+  release: 12
+  contributor: 7
+  pullRequest: 11
+  issue: 41
+language:
+  Rust: 85673
+  Makefile: 525
+totalLine: 86198
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 6
