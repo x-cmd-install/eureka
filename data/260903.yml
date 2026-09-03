@@ -1,11 +1,13 @@
 about:
-  description: 💡 CLI tool to input and store your ideas without leaving the terminal
+  description:
+  |
+    💡 CLI tool to input and store your ideas without leaving the terminal
   license: MIT
   homepage: 
   head: cc30d0b
   archived: false
   latestVersion: v2.0.0
-  collectedAt: 2026-09-03T05:09:21Z
+  collectedAt: 2026-09-03T22:38:24Z
 timeline:
   created: 2017-11-20
   lastCommit: 2026-08-28
@@ -13,7 +15,7 @@ timeline:
 popularity:
   star: 876
   watcher: 9
-  fork: 42
+  fork: 43
   release: 12
   contributor: 7
   pullRequest: 11
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 85673
   Makefile: 525
-totalLine: 86198
+totalBytes: 86198
 recent:
   last30d:
     since: 2026-08-04
