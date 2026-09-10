@@ -21,7 +21,6 @@ x install eureka
 
 - **Latest**: `v2.0.0` (2022-04-10)
 - **Last commit**: 2026-08-28
-- **Published**: 2022-04-10T13:17:37Z
 
 ## Popularity
 
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for eureka lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `eureka` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/eureka.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/eureka.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:54:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:07Z._
