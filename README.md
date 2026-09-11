@@ -12,6 +12,28 @@
 x install eureka
 ```
 
+## Code insight
+
+Total: **2,202** lines of code across **13** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,149 | 66 | 539 | 8 |
+| Toml | 31 | 0 | 4 | 1 |
+| Makefile | 20 | 0 | 10 | 1 |
+| Yaml | 2 | 0 | 0 | 1 |
+| Markdown | 0 | 122 | 43 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/simeg/eureka>
@@ -34,31 +56,12 @@ x install eureka
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 0 | 0 | 6 |
-| 360d | 2025-09-15 | 0 | 1 | 0 | 0 | 0 | 6 |
-
-## Code size
-
-Total: **2,202** lines of code across **13** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,149 | 66 | 539 | 8 |
-| Toml | 31 | 0 | 4 | 1 |
-| Makefile | 20 | 0 | 10 | 1 |
-| Yaml | 2 | 0 | 0 | 1 |
-| Markdown | 0 | 122 | 43 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.4 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+| 30d | 2026-08-12 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-13 | 0 | 1 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-13 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last180d | 2026-03-15 | 0 | 1 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-16 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last720d | 2024-09-21 | 0 | 1 | 1 | 0 | 0 | 6 |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for eureka lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:23Z._
