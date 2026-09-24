@@ -30,8 +30,8 @@ x install eureka
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -46,7 +46,7 @@ x install eureka
 
 ## 流行度
 
-- **Star**: 880 · **Fork**: 43 · **开放 issue**: 41 · **贡献者**: 7
+- **Star**: 882 · **Fork**: 43 · **开放 issue**: 41 · **贡献者**: 7
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install eureka
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 1 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-25 | 0 | 1 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-25 | 0 | 1 | 0 | 0 | 0 | 6 |
-| last180d | 2026-03-27 | 0 | 1 | 0 | 0 | 0 | 6 |
-| 360d | 2025-09-28 | 0 | 1 | 0 | 0 | 0 | 6 |
-| last720d | 2024-10-03 | 0 | 1 | 1 | 0 | 0 | 6 |
+| 30d | 2026-08-25 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-26 | 0 | 1 | 0 | 0 | 0 | 6 |
+| 90d | 2026-06-26 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last180d | 2026-03-28 | 0 | 1 | 0 | 0 | 0 | 6 |
+| 360d | 2025-09-29 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last720d | 2024-10-04 | 0 | 1 | 1 | 0 | 0 | 6 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ eureka 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T04:50:29Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T04:49:58Z._
