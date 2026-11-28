@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0"
   latestRelease: "v2.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:34:26Z
+  collectedAt: 2026-11-28T07:45:47Z
 timeline:
   created: 2017-11-20
   lastCommit: 2026-08-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2022-04-10
   lastPrerelease: 
 popularity:
-  star: 887
+  star: 888
   watcher: 9
   fork: 43
   release: 12
@@ -28,7 +28,7 @@ language:
 totalBytes: 86198
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -36,7 +36,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 0
@@ -44,7 +44,7 @@ recent:
     openIssue: 0
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 0
@@ -52,23 +52,23 @@ recent:
     openIssue: 0
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 1
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 1
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 1
     openPR: 1
@@ -84,7 +84,7 @@ total:
   commit: 264
 ---
 path: /home/runner/.x-repo/github.com/simeg/eureka
-collectedAt: 2026-11-27T08:34:27Z
+collectedAt: 2026-11-28T07:45:49Z
 loc:
   Rust:
     code: 2149
